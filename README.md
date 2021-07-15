@@ -13,4 +13,4 @@
 
 **Предварительные сборки:**
 
-- [Версия 0.1.1 от 15 июля 2021](/upravlenie-torgovlej/releases/beta/life-pos-1с-ut-v-0.1.1-beta.cfe)
+- [Версия 0.1.1 от 15 июля 2021](https://github.com/lifepay/lifepos-1c-integrations/raw/main/upravlenie-torgovlej/releases/beta/life-pos-1%D1%81-ut-v-0.1.1-beta.cfe)
